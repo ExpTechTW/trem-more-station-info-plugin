@@ -139,6 +139,10 @@ class Plugin {
         }
       }
 
+      if (TREM.constant.SHOW_REPORT) {
+        data_list = [];
+      }
+
       if (TREM.variable.map) {
         TREM.variable.map.getSource('rts-6').setData({ type: 'FeatureCollection', features: data_list });
       }
