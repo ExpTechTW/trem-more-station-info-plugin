@@ -2,7 +2,8 @@
   "name": "more-station-info",
   "version": "1.0.1",
   "description": {
-    "zh_tw": "顯示更多 station 相關資訊"
+    "zh_tw": "顯示更多 station 相關資訊",
+    "zh-Hant": "顯示更多 station 相關資訊"
   },
   "author": ["yayacat"],
   "dependencies": {
