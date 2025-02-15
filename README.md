@@ -16,6 +16,7 @@ trem-more-station-info-plugin 適用於 TREM-Lite 3.1.0 以上版本。顯示更
 ### 安裝方式
 
 - 首先至 [TREM 擴充](https://exptechtw.github.io/trem-plugins/) 或從 TREM-Lite > 設定 > 擴充 > 擴充商店內進行下載
+- 下載完成後，下載依賴[config](https://github.com/ExpTechTW/trem-config-plugin)和[logger](https://github.com/ExpTechTW/trem-logger-plugin)
 - 下載完成後，重新開啟設定頁面
 - 在擴充列表的 more-station-info 進行勾選，關閉設定頁面，即可使用
 
